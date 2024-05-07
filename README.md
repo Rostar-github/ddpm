@@ -1,2 +1,2 @@
-# ddpm
-Implementation of diffusion models
+# Implementation of diffusion models
+
